@@ -1,0 +1,7 @@
+[
+{"id": 1, "title": "Wireless Headphones", "price": 59.99, "rating": 4.5, "image":"https://via.placeholder.com/150"},
+{"id": 2, "title": "Smartphone", "price": 299.99, "rating": 4.6, "image":"https://via.placeholder.com/150"},
+{"id": 3, "title": "Gaming Mouse", "price": 29.99, "rating": 4.2, "image":"https://via.placeholder.com/150"},
+{"id": 4, "title": "Mechanical Keyboard", "price": 89.99, "rating": 4.7, "image":"https://via.placeholder.com/150"},
+{"id": 5, "title": "4K Monitor", "price": 399.99, "rating": 4.8, "image":"https://via.placeholder.com/150"}
+]
